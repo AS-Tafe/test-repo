@@ -3,3 +3,4 @@
 - Carrot
 - Lettuce
 - Cabbage
+- Potato
